@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### here is some facts about me 
+#### Here is some facts about me 
 
 ✅ Curiosity sparked my entry into the world of coding—my passion began with small projects in Python, which soon turned into full-fledged applications. I knew then that I had found my calling. With 5 years of experience in software development, I’ve honed my skills in React, Python, Django, and Node.js. My journey has been an exciting blend of problem-solving, creativity, and continuous learning.
 
