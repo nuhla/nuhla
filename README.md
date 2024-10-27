@@ -11,7 +11,9 @@
 ## Education 
 - Arab American University: IT - CIT (2003 -2008)
 - ReBootKamp (RBK) - Hackreactor: Computer Software Engineering BootCamp (2020-2021)
+  
     ✅  Internship with ANERA, for 4 months of an extensive training course on full-stack development, with support from co-founding partner Hack Reactor in San Francisco.
+  
     ✅  Main Fileds: React.js, Nodejs, SQL, ReactNative, MongooseDB , Redux 
 
 ### How to reach me 📫 : 
