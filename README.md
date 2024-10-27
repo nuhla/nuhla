@@ -7,6 +7,12 @@
 
 ✅ Always eager to collaborate, I invite you to connect with me. Let’s discuss how we can turn your digital vision into reality. Feel free to message me here or reach out via email at nuhlamasri@gmail.com.
 
+##
+## Education 
+- Arab American University: IT - CIT (2003 -2008)
+- ReBootKamp (RBK) - Hackreactor: Computer Software Engineering BootCamp (2020-2021)
+    ✅  Internship with ANERA, for 4 months of an extensive training course on full-stack development, with support from co-founding partner Hack Reactor in San Francisco.
+    ✅  Main Fileds: React.js , Nodejs, SQL, ReactNative , MongooseDB , Redux 
 
 ### How to reach me 📫 : 
 - Email: nuhlamasri@gmail.com
