@@ -8,7 +8,7 @@
 ✅ Always eager to collaborate, I invite you to connect with me. Let’s discuss how we can turn your digital vision into reality. Feel free to message me here or reach out via email at nuhlamasri@gmail.com.
 
 ##
-## Education 
+## Education  🌱
 - Arab American University: IT - CIT (2003 -2008)
 - ReBootKamp (RBK) - Hackreactor: Computer Software Engineering BootCamp (2020-2021)
   
