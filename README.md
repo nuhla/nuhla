@@ -6,13 +6,16 @@
 ✅ As a Full Stack Developer, I’ve led projects like AutoVuSolidity, enhancing smart contract security, and NCDP Dashboard, a dynamic app used for managing users and profiles efficiently. My work has improved query execution times by 20% and increased application maintainability by 15%, enabling businesses to scale their solutions faster.
 
 ✅ Always eager to collaborate, I invite you to connect with me. Let’s discuss how we can turn your digital vision into reality. Feel free to message me here or reach out via email at nuhlamasri@gmail.com.
-<!--
-**nuhla/nuhla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ### How to reach me 📫 : 
 - Email: nuhlamasri@gmail.com
 - LinkedIn:[ Nuhala al massri](https://www.linkedin.com/in/nahlaalmasri/)
 - Facebook: GitHub Profile
+<!--
+**nuhla/nuhla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 
 Here are some ideas to get you started:
